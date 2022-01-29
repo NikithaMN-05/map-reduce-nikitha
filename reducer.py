@@ -1,5 +1,5 @@
-s = open("s.txt","r")
-r = open("r.txt", "w")
+s = open("nikiSort.txt","r")
+r = open("nikiReduce.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
